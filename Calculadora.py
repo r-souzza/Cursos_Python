@@ -3,7 +3,7 @@
 """
 Calculadora
 Autor: Roger
-Função: Realizar cálculos
+Função: Realizar cálculos simples (adição, subtração, multiplicação, divisão)
 """
 
 print ("---CALCULADORA---")
